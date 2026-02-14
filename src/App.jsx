@@ -65,7 +65,7 @@ function App() {
         alignItems: "center",
         background: "linear-gradient(135deg, #ffffff, #ffc0cb)"
       }}>
-        <h2>Entre notre mot secret <br /> ( refléchis bien 🙂 )</h2>
+        <h2>Login/Signup please <br /> ( refléchis bien 🙂 )</h2>
 
         <input
           type="password"
@@ -89,6 +89,7 @@ function App() {
               });
 
               setTimeout(() => {
+                setShowIntro(true);
                 setIsUnlocked(true);
               }, 800);
             }
@@ -107,7 +108,7 @@ function App() {
         >
           Entrer
         </button>
-        
+
       </div>
     );
   }
