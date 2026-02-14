@@ -5,7 +5,7 @@ export default function Memories() {
   return (
     <section style={{ padding: "80px 20px", color: "#2b2b2b" }}>
       <h2 style={{ textAlign: "center", marginBottom: "60px" }}>
-        Nos souvenirs 💞
+        <i>Times so far behind us</i>
       </h2>
 
       <div style={{ maxWidth: "800px", margin: "0 auto" }}>

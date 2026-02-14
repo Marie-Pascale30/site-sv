@@ -11,8 +11,8 @@ export default function Playlist({ spotifyLink }) {
         textAlign: "center",
       }}
     >
-      <h2>Notre playlist 🎶</h2>
-      <p>Des chansons qui nous ressemblent 💕</p>
+      <h2><i>Instant zouk</i> </h2>
+      <p>M'accorderais-tu cette danse? 😏 <br /> Rendez-vous le 21 😉 </p>
 
       <div
         style={{

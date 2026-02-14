@@ -145,7 +145,7 @@ export default function Gallery() {
 
     return (
         <section style={sectionStyle}>
-            <h2 style={titleStyle}>Nos souvenirs</h2>
+            <h2 style={titleStyle}><i>Gallery-grid</i></h2>
 
             <motion.div style={galleryGrid} variants={containerVariants} initial="hidden" animate="show">
                 {memories.map((memory) => (

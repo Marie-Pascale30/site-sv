@@ -31,7 +31,7 @@ export default function Hero() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.6 }}
         >
-          Ce site est codé avec amour… et React 💻💕
+          Bienvenue sur ce site dédié à notre amour, rempli de souvenirs, de surprises et de moments inoubliables. <br /> J'espère que tu apprécieras chaque instant passé ici, tout comme j'apprécie chaque moment passé avec toi. <br /> Je t'aime plus que les mots ne peuvent le dire. ❤️ <br />Sacré tiktok, n'est-ce pas ? 😂
         </motion.p>
       </div>
     </motion.section>
